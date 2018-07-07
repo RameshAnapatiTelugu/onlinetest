@@ -1,7 +1,8 @@
 package com.rameshsoft.automation.git;
 
 public class Demo {
-public void hello() {
+
+public static void main(String[] args) {
 	
 }
 }
